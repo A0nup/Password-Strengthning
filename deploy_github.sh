@@ -6,7 +6,7 @@
 
 set -e
 
-REPO_NAME="password-strengthening-system"
+REPO_NAME="Password-Strengthning"
 DEFAULT_USER="A0nup"
 
 echo "=========================================================="

@@ -67,21 +67,21 @@ git add .
 git commit -m "feat: initial release of password strengthening system"
 
 # 3. Add remote (replace with your repository URL)
-git remote add origin https://github.com/A0nup/password-strengthening-system.git
+git remote add origin https://github.com/A0nup/Password-Strengthning.git
 
 # 4. Push to GitHub
 git push -u origin main
 ```
 
 ### Method 3: Enable GitHub Pages in GitHub Settings
-1. Go to your repo on GitHub: `https://github.com/A0nup/password-strengthening-system`
+1. Go to your repo on GitHub: `https://github.com/A0nup/Password-Strengthning`
 2. Click **Settings** > **Pages** (in the left navigation).
 3. Under **Build and deployment**:
    - **Source**: Select `Deploy from a branch`
    - **Branch**: Select `main` and folder `/ (root)`
    - Click **Save**
 4. Your website will be live at:
-   **`https://a0nup.github.io/password-strengthening-system/`**
+   **`https://a0nup.github.io/Password-Strengthning/`**
 
 ---
 
@@ -94,7 +94,7 @@ git push -u origin main
 
 ### Method 2: Connect via GitHub
 1. In Netlify dashboard, click **"Add new site"** > **"Import an existing project"**.
-2. Select GitHub and pick the `password-strengthening-system` repository.
+2. Select GitHub and pick the `Password-Strengthning` repository.
 3. Leave build settings default (`publish directory: .`).
 4. Click **Deploy Site**.
 
